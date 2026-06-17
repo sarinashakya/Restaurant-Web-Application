@@ -1,4 +1,4 @@
-# Restaurant Landing Page
+# Restaurant-Web-Application
 
 A full-stack restaurant web application built with the MERN stack.
 
